@@ -86,6 +86,7 @@ body {
 
 .hero-title {
   color: var(--white-color);
+  text-align: center;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -111,7 +112,6 @@ body {
 /* Our preference */
 
 .preference {
-  display: none;
 }
 
 .pref-title {
@@ -213,7 +213,6 @@ body {
 /* Filter */
 
 .filter-title {
-  display: none;
 }
 
 .filter-list {
